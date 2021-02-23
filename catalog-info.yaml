@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: angular-without-graph
+  description: angular-without-graph
+  annotations:
+    github.com/project-slug: dump/dump
+    backstage.io/techdocs-ref: url:DmitriyKhirniy/angular-without-graph
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "DmitriyKhirniy"
